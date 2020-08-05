@@ -1,5 +1,4 @@
 ### Hi there 👋
-<br><br>
 - 🔭 I’m currently working on <b>ryanwans.com!</b>
 - 🌱 I’m currently learning <b>JS Golfing Techniques</b>
 - 👯 I’m looking to collaborate on <b>New Website Ideas</b>
