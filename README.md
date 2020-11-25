@@ -1,13 +1,13 @@
 ### Hi there, i'm Ryan Wans
 
 <a href="https://github.com/ryanwans">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanrocket&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanrocket" />
 </a>
 <a href="https://github.com/ryanwans">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrocket&theme=algolia&layout=compact&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrocket&theme=algolia&layout=compact" />
 </a>
 
-[![ryanrocket's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryanrocket&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![ryanrocket's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryanrocket&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on <b>ryanwans.com and Test Caplet!</b>
