@@ -2,7 +2,7 @@
 
 ![ryanrocket's github stats](https://github-readme-stats.vercel.app/api?username=ryanrocket&theme=algolia)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrocket&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrocket&theme=algolia&layout=compact)
 
 - 🔭 I’m currently working on <b>ryanwans.com and Test Caplet!</b>
 - 🌱 I’m currently learning <b>JS Golfing Techniques</b>
