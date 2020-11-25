@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanrocket" />
 </a>
 <a href="https://github.com/ryanwans">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrocket&theme=algolia&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrocket&layout=compact" />
 </a>
 
 [![ryanrocket's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryanrocket&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
