@@ -4,6 +4,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrocket&theme=algolia&layout=compact)
 
+[![ryanrocket's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryanrocket&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 🔭 I’m currently working on <b>ryanwans.com and Test Caplet!</b>
 - 🌱 I’m currently learning <b>JS Golfing Techniques</b>
 - 👯 I’m looking to collaborate on <b>New Website Ideas</b>
