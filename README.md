@@ -1,8 +1,12 @@
 ### Hi there, i'm Ryan Wans
 
-![ryanrocket's github stats](https://github-readme-stats.vercel.app/api?username=ryanrocket&theme=algolia)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanrocket&theme=algolia" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrocket&theme=algolia&layout=compact&langs_count=8" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrocket&theme=algolia&layout=compact&langs_count=8)
 
 [![ryanrocket's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryanrocket&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
