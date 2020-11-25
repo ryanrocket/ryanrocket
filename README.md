@@ -16,5 +16,3 @@
 - 🤔 I’m looking for help with <b>Any JS Issues</b>
 - 📫 How to reach me: <b>contact@ryanwans.com</b>
 - ⚡ Fun fact: <b>Im Vibing</b>
-
-<script src="https://ryanwans.com/global-cdn/v8/hitmark"></script>
