@@ -9,5 +9,4 @@
 
 [![ryanrocket's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryanrocket&layout=compact)](https://github.com/ryanwans)
 
-<br>
 For business inquires, contact me at <a href="mailto:business@ryanwans.com">business@ryanwans.com</a>
