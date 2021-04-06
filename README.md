@@ -1,9 +1,6 @@
 ### Hi there, i'm Ryan Wans
 
 <a href="https://github.com/ryanwans">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanrocket" />
-</a>
-<a href="https://github.com/ryanwans">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrocket&layout=compact&langs_count=8" />
 </a>
 
