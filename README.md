@@ -2,4 +2,4 @@
 
 RFIC Research
 
-Contact: <a href="mailto:business@ryanwans.com">business@ryanwans.com</a>
+<!-- Contact: <a href="mailto:business@ryanwans.com">business@ryanwans.com</a> -->
