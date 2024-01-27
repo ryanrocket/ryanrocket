@@ -1,5 +1,3 @@
-### Hi there, i'm Ryan Wans
+### Hi there, I'm Ryan
 
-RFIC Research
-
-<!-- Contact: <a href="mailto:business@ryanwans.com">business@ryanwans.com</a> -->
+Math and science.
